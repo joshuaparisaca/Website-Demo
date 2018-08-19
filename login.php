@@ -13,7 +13,7 @@ if(isset($_SESSION['login_user']))
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta charset="utf-8" />
-        <title>Login</title>
+        <title>Login Page</title>
         <link rel="stylesheet" href="StyleSheet1.css" />
         <link rel="shortcut icon" href="letter_J.png" />
 
